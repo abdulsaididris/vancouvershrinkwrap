@@ -82,11 +82,11 @@ export const ServicePage: React.FC<ServicePageProps> = ({ serviceId, onBack, onS
                             <ArrowRight size={20} />
                         </a>
                         <a
-                            href="tel:7804793285"
+                            href="tel:6044090668"
                             className="inline-flex items-center justify-center px-8 py-4 bg-white/10 hover:bg-white hover:text-slate-900 text-white font-bold text-lg transition-all gap-3 rounded-lg border-2 border-white/30"
                         >
                             <Phone size={20} />
-                            780-479-3285
+                            604-409-0668
                         </a>
                     </div>
                 </div>
@@ -244,11 +244,11 @@ export const ServicePage: React.FC<ServicePageProps> = ({ serviceId, onBack, onS
                             <ArrowRight size={20} />
                         </a>
                         <a
-                            href="tel:7804793285"
+                            href="tel:6044090668"
                             className="inline-flex items-center justify-center px-8 py-4 bg-transparent border-2 border-white text-white hover:bg-white hover:text-orange-600 font-bold text-lg transition-all gap-3 rounded-lg"
                         >
                             <Phone size={20} />
-                            780-479-3285
+                            604-409-0668
                         </a>
                     </div>
                 </div>

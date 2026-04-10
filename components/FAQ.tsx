@@ -108,10 +108,10 @@ export const FAQ: React.FC = () => {
                                 Contact Us
                             </a>
                             <a
-                                href="tel:7804793285"
+                                href="tel:6044090668"
                                 className="inline-flex items-center justify-center px-6 py-3 bg-slate-700 hover:bg-slate-600 text-white font-bold transition-colors rounded-lg"
                             >
-                                Call 780-479-3285
+                                Call 604-409-0668
                             </a>
                         </div>
                     </div>

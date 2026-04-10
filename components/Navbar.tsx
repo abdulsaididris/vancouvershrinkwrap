@@ -51,11 +51,11 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
             </a>
           ))}
           <a
-            href="tel:7804793285"
+            href="tel:6044090668"
             className="px-5 xl:px-6 py-2.5 xl:py-3 bg-orange-500 text-white font-bold text-xs xl:text-sm transition-all hover:bg-orange-600 rounded-lg flex items-center gap-2 shadow-md whitespace-nowrap"
           >
             <Phone size={14} className="xl:w-4 xl:h-4" />
-            <span className="hidden xl:inline">780-479-3285</span>
+            <span className="hidden xl:inline">604-409-0668</span>
             <span className="xl:hidden">Call</span>
           </a>
         </div>
@@ -85,12 +85,12 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
             </a>
           ))}
           <a
-            href="tel:7804793285"
+            href="tel:6044090668"
             className="text-lg md:text-xl font-bold text-orange-500 py-2 flex items-center gap-2"
             onClick={() => setIsOpen(false)}
           >
             <Phone size={18} className="md:w-5 md:h-5" />
-            780-479-3285
+            604-409-0668
           </a>
         </div>
       </div>

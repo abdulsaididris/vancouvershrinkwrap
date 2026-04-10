@@ -18,7 +18,7 @@ export const Footer: React.FC = () => {
               Professional shrink wrapping services for buildings, boats, equipment, and more. Protecting Vancouver's investments since 2014.
             </p>
             <div className="flex flex-col sm:flex-row gap-3 md:gap-4">
-              <a href="tel:7804793285" className="px-5 md:px-6 py-2.5 md:py-3 bg-orange-500 hover:bg-orange-600 transition-colors font-bold text-sm md:text-base rounded-lg flex items-center justify-center gap-2">
+              <a href="tel:6044090668" className="px-5 md:px-6 py-2.5 md:py-3 bg-orange-500 hover:bg-orange-600 transition-colors font-bold text-sm md:text-base rounded-lg flex items-center justify-center gap-2">
                 <Phone size={16} className="md:w-[18px] md:h-[18px]" />
                 Call Now
               </a>
@@ -58,9 +58,9 @@ export const Footer: React.FC = () => {
           <div>
             <h4 className="text-base md:text-lg font-bold mb-4 md:mb-6 text-orange-500">Contact</h4>
             <div className="space-y-3 md:space-y-4 text-slate-400 text-sm md:text-base">
-              <a href="tel:7804793285" className="flex items-center gap-2 md:gap-3 hover:text-white transition-colors break-words">
+              <a href="tel:6044090668" className="flex items-center gap-2 md:gap-3 hover:text-white transition-colors break-words">
                 <Phone size={16} className="md:w-[18px] md:h-[18px] flex-shrink-0" />
-                <span>780-479-3285</span>
+                <span>604-409-0668</span>
               </a>
               <a href="mailto:a.said@lagroupofcompanies.ca" className="flex items-center gap-2 md:gap-3 hover:text-white transition-colors break-words">
                 <Mail size={16} className="md:w-[18px] md:h-[18px] flex-shrink-0" />

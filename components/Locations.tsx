@@ -65,7 +65,7 @@ export const Locations: React.FC<LocationsProps> = ({ onLocationClick }) => {
               Don't see your specific town listed? Give us a call. Our mobile crews regularly travel beyond the main hubs to reach remote industrial sites and construction locations province-wide.
             </p>
             <a
-              href="tel:7804793285"
+              href="tel:6044090668"
               className="inline-flex items-center gap-3 px-8 py-4 bg-orange-500 text-white font-bold rounded-2xl hover:bg-orange-600 transition-all shadow-lg shadow-orange-500/25"
             >
               Call for Service <ExternalLink size={18} />

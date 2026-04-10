@@ -63,11 +63,11 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationId, onBack }
                 Get a Quote for {location.name}
               </a>
               <a
-                href="tel:7804793285"
+                href="tel:6044090668"
                 className="px-8 py-4 bg-white/10 text-white font-bold rounded-xl hover:bg-white/20 transition-all border border-white/20 flex items-center gap-2"
               >
                 <Phone size={18} />
-                Call 780-479-3285
+                Call 604-409-0668
               </a>
             </div>
           </div>

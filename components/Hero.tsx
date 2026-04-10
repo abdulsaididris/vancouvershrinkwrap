@@ -43,11 +43,11 @@ export const Hero: React.FC = () => {
             </a>
             
             <a
-              href="tel:7804793285"
+              href="tel:6044090668"
               className="inline-flex items-center justify-center px-6 md:px-8 py-3 md:py-4 bg-white/10 backdrop-blur-sm border-2 border-white/30 text-white font-bold text-base md:text-lg transition-all hover:bg-white hover:text-slate-900 gap-2 md:gap-3 uppercase tracking-tight rounded-lg"
             >
               <Phone size={18} className="md:w-5 md:h-5" />
-              780-479-3285
+              604-409-0668
             </a>
           </div>
 

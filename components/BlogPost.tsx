@@ -140,11 +140,11 @@ export const BlogPost: React.FC<BlogPostProps> = ({ postId, onBack, onReadMore }
                             <ArrowRight size={18} />
                         </a>
                         <a
-                            href="tel:7804793285"
+                            href="tel:6044090668"
                             className="inline-flex items-center justify-center px-6 py-3 bg-transparent border-2 border-white text-white hover:bg-white hover:text-orange-600 font-bold transition-all gap-2 rounded-lg"
                         >
                             <Phone size={18} />
-                            780-479-3285
+                            604-409-0668
                         </a>
                     </div>
                 </div>

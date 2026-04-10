@@ -19,7 +19,7 @@ export const Contact: React.FC = () => {
 
             <div className="space-y-6 md:space-y-8">
               {[
-                { label: "Call Us", val: "780-479-3285", icon: <Phone size={24} />, href: "tel:7804793285" },
+                { label: "Call Us", val: "604-409-0668", icon: <Phone size={24} />, href: "tel:6044090668" },
                 { label: "Email", val: "a.said@lagroupofcompanies.ca", icon: <Mail size={24} />, href: "mailto:a.said@lagroupofcompanies.ca" },
                 { label: "Service Area", val: "Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia", icon: <MapPin size={24} /> }
               ].map((item, i) => (
@@ -78,7 +78,7 @@ export const Contact: React.FC = () => {
                     type="tel"
                     name="phone"
                     className="w-full bg-slate-50 border-2 border-slate-200 px-4 py-3 rounded-lg text-base md:text-lg focus:outline-none focus:border-orange-500 transition-all"
-                    placeholder="780-479-3285"
+                    placeholder="604-409-0668"
                   />
                 </div>
               </div>
