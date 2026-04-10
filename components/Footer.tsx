@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="sm:col-span-2 lg:col-span-2">
             <h3 className="text-2xl md:text-3xl font-black mb-3 md:mb-4">
-              VANCOUVER <span className="text-orange-500">SHRINKWRAP</span>
+              VANCOUVER <span className="text-orange-500">shrink wrap</span>
             </h3>
             <p className="text-slate-400 text-base md:text-lg mb-4 md:mb-6 max-w-md leading-relaxed">
               Professional shrink wrapping services for buildings, boats, equipment, and more. Protecting Vancouver's investments since 2014.
