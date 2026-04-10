@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <!-- 
+    Using apple-touch-icon.png as the source since it likely contains the square building logo.
+    Scaling it up (zooming) to remove padding and make it appear "bigger" in the tab.
+    Original view is 0-192. We make the image larger and shift it to center.
+  -->
+  <image href="/apple-touch-icon.png" x="-30" y="-30" width="252" height="252" />
+</svg>
