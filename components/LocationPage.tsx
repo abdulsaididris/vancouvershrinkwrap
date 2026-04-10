@@ -50,10 +50,10 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationId, onBack }
               Serving {location.name}, British Columbia
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white mb-6 leading-[1.1]">
-              SHRINKWRAP Services in <span className="text-orange-500">{location.name}</span>
+              shrink wrap Services in <span className="text-orange-500">{location.name}</span>
             </h1>
             <p className="text-lg md:text-xl text-slate-300 mb-8 leading-relaxed">
-              Professional, industrial-grade SHRINKWRAP protection for construction sites, boats, and heavy equipment across {location.name} and the {location.region}.
+              Professional, industrial-grade shrink wrap protection for construction sites, boats, and heavy equipment across {location.name} and the {location.region}.
             </p>
             <div className="flex flex-wrap gap-4">
               <a
@@ -80,7 +80,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationId, onBack }
           <div className="grid lg:grid-cols-2 gap-16 items-start">
             <div>
               <h2 className="text-3xl md:text-4xl font-black text-slate-900 mb-8">
-                The Trusted Choice for SHRINKWRAP in <span className="text-orange-500">{location.name}</span>
+                The Trusted Choice for shrink wrap in <span className="text-orange-500">{location.name}</span>
               </h2>
               <div className="prose prose-lg text-slate-600 mb-10 max-w-none">
                 <p className="mb-4">{location.description}</p>
@@ -116,7 +116,7 @@ export const LocationPage: React.FC<LocationPageProps> = ({ locationId, onBack }
                 <Shield className="text-orange-500 mb-6" size={40} />
                 <h3 className="text-2xl font-bold text-slate-900 mb-4">Construction Enclosures</h3>
                 <p className="text-slate-600 mb-6">
-                  Keep your {location.name} construction project on schedule through winter weather. Our SHRINKWRAP enclosures create a windproof, waterproof, and heated environment for year-round work.
+                  Keep your {location.name} construction project on schedule through winter weather. Our shrink wrap enclosures create a windproof, waterproof, and heated environment for year-round work.
                 </p>
                 <ul className="space-y-3">
                   {['100% Weather Protection', 'Heated Work Environment', 'Dust & Debris Containment', 'Quick Installation'].map((item) => (

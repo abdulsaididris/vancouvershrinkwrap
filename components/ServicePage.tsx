@@ -267,7 +267,7 @@ export const ServicePage: React.FC<ServicePageProps> = ({ serviceId, onBack, onS
                                 onClick={() => onServiceClick(relatedId)}
                                 className="px-6 py-3 bg-white border-2 border-slate-200 hover:border-orange-500 text-slate-700 hover:text-orange-600 font-bold rounded-lg transition-all"
                             >
-                                {relatedId === 'building-wrap' && 'Building SHRINKWRAP'}
+                                {relatedId === 'building-wrap' && 'Building shrink wrap'}
                                 {relatedId === 'boat-wrap' && 'Boat & Marine Wrap'}
                                 {relatedId === 'transport-wrap' && 'Transport Wrap'}
                             </button>

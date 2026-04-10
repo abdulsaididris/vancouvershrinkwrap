@@ -44,7 +44,7 @@ export const FAQ: React.FC = () => {
                         FREQUENTLY <span className="text-orange-500">ASKED</span>
                     </h2>
                     <p className="mt-4 md:mt-6 text-base sm:text-lg md:text-xl text-slate-400 max-w-2xl mx-auto px-4">
-                        Everything you need to know about our SHRINKWRAP services in Vancouver and across British Columbia.
+                        Everything you need to know about our shrink wrap services in Vancouver and across British Columbia.
                     </p>
                 </div>
 
@@ -120,7 +120,7 @@ export const FAQ: React.FC = () => {
                 {/* SEO Keywords */}
                 <div className="mt-12 text-center">
                     <p className="text-slate-600 text-xs">
-                        Vancouver Shrinkwrap | SHRINKWRAP British Columbia | Industrial SHRINKWRAP Vancouver | Building Enclosures | Scaffolding Containment
+                        Vancouver Shrinkwrap | shrink wrap British Columbia | Industrial shrink wrap Vancouver | Building Enclosures | Scaffolding Containment
                     </p>
                 </div>
             </div>

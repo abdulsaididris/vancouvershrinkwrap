@@ -45,7 +45,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'paragraph',
-                content: 'Many sites rely on standard tarps, but they flail in the wind, leak, and provide poor insulation. Our industrial SHRINKWRAP solution is different.'
+                content: 'Many sites rely on standard tarps, but they flail in the wind, leak, and provide poor insulation. Our industrial shrink wrap solution is different.'
             },
             {
                 type: 'subheading',
@@ -93,18 +93,18 @@ export const blogPosts: BlogPost[] = [
     {
         id: 'scaffolding-safety',
         slug: 'scaffolding-shrink-wrap-site-safety',
-        title: 'Beyond Weather Protection: Why Scaffolding SHRINKWRAP is Essential for Site Safety',
-        metaDescription: 'SHRINKWRAP Vancouver offers 100% containment solutions for scaffolding. Protect workers and meet environmental compliance with professional SHRINKWRAP.',
+        title: 'Beyond Weather Protection: Why Scaffolding shrink wrap is Essential for Site Safety',
+        metaDescription: 'shrink wrap Vancouver offers 100% containment solutions for scaffolding. Protect workers and meet environmental compliance with professional shrink wrap.',
         category: 'Safety & Containment',
         categoryTag: 'INDUSTRIAL',
-        focusKeywords: ['SHRINKWRAP Vancouver', 'Scaffolding Containment'],
+        focusKeywords: ['shrink wrap Vancouver', 'Scaffolding Containment'],
         targetAudience: 'Industrial Maintenance Managers & Safety Officers',
         readingTime: '4 min read',
-        excerpt: 'When people think of SHRINKWRAP in Vancouver, they often think of weather protection. But for industrial sites and maintenance projects, the primary challenge is often containment.',
+        excerpt: 'When people think of shrink wrap in Vancouver, they often think of weather protection. But for industrial sites and maintenance projects, the primary challenge is often containment.',
         content: [
             {
                 type: 'paragraph',
-                content: 'When people think of SHRINKWRAP in Vancouver, they often think of weather protection. But for industrial sites and maintenance projects, the primary challenge is often containment.'
+                content: 'When people think of shrink wrap in Vancouver, they often think of weather protection. But for industrial sites and maintenance projects, the primary challenge is often containment.'
             },
             {
                 type: 'paragraph',
@@ -116,7 +116,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'paragraph',
-                content: 'Dust, debris, and overspray can easily escape a standard hoarding setup. Our SHRINKWRAP solutions provide a sealed barrier that guarantees containment.'
+                content: 'Dust, debris, and overspray can easily escape a standard hoarding setup. Our shrink wrap solutions provide a sealed barrier that guarantees containment.'
             },
             {
                 type: 'subheading',
@@ -156,11 +156,11 @@ export const blogPosts: BlogPost[] = [
     {
         id: 'transport-protection',
         slug: 'transporting-modular-units-british-columbia-shrink-wrap',
-        title: 'Transporting Modular Units in British Columbia? Protect Your Assets with Industrial SHRINKWRAP',
-        metaDescription: 'SHRINKWRAP British Columbia specialists for modular transport protection. Protect equipment from road debris, salt, and moisture during transit across British Columbia.',
+        title: 'Transporting Modular Units in British Columbia? Protect Your Assets with Industrial shrink wrap',
+        metaDescription: 'shrink wrap British Columbia specialists for modular transport protection. Protect equipment from road debris, salt, and moisture during transit across British Columbia.',
         category: 'Transport & Logistics',
         categoryTag: 'TRANSPORT',
-        focusKeywords: ['SHRINKWRAP British Columbia', 'Modular Wrap', 'Transport Protection'],
+        focusKeywords: ['shrink wrap British Columbia', 'Modular Wrap', 'Transport Protection'],
         targetAudience: 'Logistics Coordinators & Modular Construction Firms',
         readingTime: '4 min read',
         excerpt: 'Moving large equipment or modular units across British Columbia is a risky business. Road salt, gravel, grime, and moisture can wreak havoc on your valuable assets before they even reach the job site.',
@@ -179,7 +179,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'paragraph',
-                content: 'Traditional tarps can come loose at highway speeds, chafing the equipment underneath or allowing road spray to penetrate. Our SHRINKWRAP process fuses the plastic into a single, taut shell that does not move.'
+                content: 'Traditional tarps can come loose at highway speeds, chafing the equipment underneath or allowing road spray to penetrate. Our shrink wrap process fuses the plastic into a single, taut shell that does not move.'
             },
             {
                 type: 'heading',
@@ -215,26 +215,26 @@ export const blogPosts: BlogPost[] = [
     {
         id: 'shrink-wrap-cost-guide',
         slug: 'shrink-wrap-cost-vancouver-2026-pricing-guide',
-        title: 'How Much Does SHRINKWRAPping Cost in Vancouver? (2026 Price Guide)',
+        title: 'How Much Does shrink wrapping Cost in Vancouver? (2026 Price Guide)',
         metaDescription: 'Complete Vancouver Shrinkwrap pricing guide for 2026. Learn costs for building enclosures, boat wrapping, and industrial projects. Free estimates available.',
         category: 'Pricing & Guides',
         categoryTag: 'GUIDE',
-        focusKeywords: ['SHRINKWRAP Cost Vancouver', 'SHRINKWRAP Pricing British Columbia', 'Building Wrap Cost'],
+        focusKeywords: ['shrink wrap Cost Vancouver', 'shrink wrap Pricing British Columbia', 'Building Wrap Cost'],
         targetAudience: 'Property Owners, Contractors & Project Managers',
         readingTime: '6 min read',
-        excerpt: 'One of the most common questions we receive is "How much does SHRINKWRAPping cost?" The answer depends on several factors, but this comprehensive guide will help you understand pricing for Vancouver Shrinkwrap projects.',
+        excerpt: 'One of the most common questions we receive is "How much does shrink wrapping cost?" The answer depends on several factors, but this comprehensive guide will help you understand pricing for Vancouver Shrinkwrap projects.',
         content: [
             {
                 type: 'paragraph',
-                content: 'One of the most common questions we receive at Vancouver Shrinkwrap is "How much does SHRINKWRAPping cost?" It\'s a fair questionâ€”you need to budget for your project. The honest answer is: it depends on several factors. But don\'t worry, this comprehensive guide will help you understand what goes into SHRINKWRAP pricing in Vancouver and across British Columbia.'
+                content: 'One of the most common questions we receive at Vancouver Shrinkwrap is "How much does shrink wrapping cost?" It\'s a fair questionâ€”you need to budget for your project. The honest answer is: it depends on several factors. But don\'t worry, this comprehensive guide will help you understand what goes into shrink wrap pricing in Vancouver and across British Columbia.'
             },
             {
                 type: 'heading',
-                content: 'Factors That Affect SHRINKWRAP Pricing'
+                content: 'Factors That Affect shrink wrap Pricing'
             },
             {
                 type: 'paragraph',
-                content: 'Every SHRINKWRAP project is unique. Here are the main factors that influence the final cost:'
+                content: 'Every shrink wrap project is unique. Here are the main factors that influence the final cost:'
             },
             {
                 type: 'subheading',
@@ -266,7 +266,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'paragraph',
-                content: 'How long do you need the wrap in place? Short-term projects (a few weeks) may use lighter-weight material, while projects requiring 12-18 months of protection need our heavy-duty UV-resistant SHRINKWRAP.'
+                content: 'How long do you need the wrap in place? Short-term projects (a few weeks) may use lighter-weight material, while projects requiring 12-18 months of protection need our heavy-duty UV-resistant shrink wrap.'
             },
             {
                 type: 'heading',
@@ -288,11 +288,11 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'heading',
-                content: 'The ROI of Professional SHRINKWRAP'
+                content: 'The ROI of Professional shrink wrap'
             },
             {
                 type: 'paragraph',
-                content: 'While SHRINKWRAP is an investment, consider the cost of NOT using it:'
+                content: 'While shrink wrap is an investment, consider the cost of NOT using it:'
             },
             {
                 type: 'list',
@@ -321,18 +321,18 @@ export const blogPosts: BlogPost[] = [
     {
         id: 'shrink-wrap-vs-tarps',
         slug: 'shrink-wrap-vs-tarps-which-is-better-british-columbia-winter',
-        title: 'SHRINKWRAP vs Tarps: Which Is Better for British Columbia Winters?',
-        metaDescription: 'Compare SHRINKWRAP vs tarps for construction sites in British Columbia. Learn why professional SHRINKWRAP outperforms traditional tarps in Vancouver winters.',
+        title: 'shrink wrap vs Tarps: Which Is Better for British Columbia Winters?',
+        metaDescription: 'Compare shrink wrap vs tarps for construction sites in British Columbia. Learn why professional shrink wrap outperforms traditional tarps in Vancouver winters.',
         category: 'Comparisons',
         categoryTag: 'COMPARISON',
-        focusKeywords: ['SHRINKWRAP vs Tarps', 'Tarp Alternative Vancouver', 'Construction Site Protection'],
+        focusKeywords: ['shrink wrap vs Tarps', 'Tarp Alternative Vancouver', 'Construction Site Protection'],
         targetAudience: 'Contractors, Site Managers & Property Owners',
         readingTime: '5 min read',
-        excerpt: 'When protecting a construction site or outdoor asset from British Columbia\'s harsh winter, you have two main options: traditional tarps or professional SHRINKWRAP. Here\'s an honest comparison to help you choose.',
+        excerpt: 'When protecting a construction site or outdoor asset from British Columbia\'s harsh winter, you have two main options: traditional tarps or professional shrink wrap. Here\'s an honest comparison to help you choose.',
         content: [
             {
                 type: 'paragraph',
-                content: 'When it comes to protecting your construction site, equipment, or boat from British Columbia\'s brutal winters, you have two main options: traditional tarps or professional SHRINKWRAP. Both have their place, but understanding the differences will help you make the right choice for your project.'
+                content: 'When it comes to protecting your construction site, equipment, or boat from British Columbia\'s brutal winters, you have two main options: traditional tarps or professional shrink wrap. Both have their place, but understanding the differences will help you make the right choice for your project.'
             },
             {
                 type: 'heading',
@@ -354,11 +354,11 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'heading',
-                content: 'Professional SHRINKWRAP: The Long-Term Solution'
+                content: 'Professional shrink wrap: The Long-Term Solution'
             },
             {
                 type: 'paragraph',
-                content: 'SHRINKWRAP costs more upfront but delivers superior protection throughout British Columbia\'s long winter. Here\'s why:'
+                content: 'shrink wrap costs more upfront but delivers superior protection throughout British Columbia\'s long winter. Here\'s why:'
             },
             {
                 type: 'list',
@@ -380,7 +380,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'paragraph',
-                content: 'A downtown Vancouver renovation initially used tarps to save money. After three weeks of wind damage, water intrusion, and daily re-securing, they called us. The water damage alone cost more than our SHRINKWRAP service. After we wrapped the building, they worked through the rest of winter without a single weather delay.'
+                content: 'A downtown Vancouver renovation initially used tarps to save money. After three weeks of wind damage, water intrusion, and daily re-securing, they called us. The water damage alone cost more than our shrink wrap service. After we wrapped the building, they worked through the rest of winter without a single weather delay.'
             },
             {
                 type: 'heading',
@@ -401,7 +401,7 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'heading',
-                content: 'When SHRINKWRAP Is the Clear Winner'
+                content: 'When shrink wrap Is the Clear Winner'
             },
             {
                 type: 'list',
@@ -420,11 +420,11 @@ export const blogPosts: BlogPost[] = [
             },
             {
                 type: 'paragraph',
-                content: 'Tarps are penny-wise and pound-foolish for most British Columbia winter applications. The labor cost of constantly re-securing tarps, combined with the risk of water damage, typically exceeds the cost of professional SHRINKWRAP within the first month.'
+                content: 'Tarps are penny-wise and pound-foolish for most British Columbia winter applications. The labor cost of constantly re-securing tarps, combined with the risk of water damage, typically exceeds the cost of professional shrink wrap within the first month.'
             },
             {
                 type: 'paragraph',
-                content: 'Contact Vancouver Shrinkwrap for a free comparison quote. We\'ll show you exactly how SHRINKWRAP saves money on your specific project.'
+                content: 'Contact Vancouver Shrinkwrap for a free comparison quote. We\'ll show you exactly how shrink wrap saves money on your specific project.'
             }
         ],
         relatedPosts: ['shrink-wrap-cost-guide', 'winter-construction']

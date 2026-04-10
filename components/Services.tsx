@@ -19,7 +19,7 @@ export const Services: React.FC<ServicesProps> = ({ onServiceClick }) => {
     {
       id: 'boat-wrap',
       title: "Boat & Marine Wrap",
-      desc: "Protect boats, yachts, equipment, and machinery during storage. Professional SHRINKWRAP for all sizes in Vancouver and surrounding areas, ensuring year-round protection.",
+      desc: "Protect boats, yachts, equipment, and machinery during storage. Professional shrink wrap for all sizes in Vancouver and surrounding areas, ensuring year-round protection.",
       icon: <Package size={32} />,
       tag: "MARINE",
       clickable: true
@@ -27,7 +27,7 @@ export const Services: React.FC<ServicesProps> = ({ onServiceClick }) => {
     {
       id: 'transport-wrap',
       title: "Transport Protection",
-      desc: "Protect equipment and modular units during transport. Our SHRINKWRAP stays tight at highway speeds, preventing damage from road debris, salt, and weather.",
+      desc: "Protect equipment and modular units during transport. Our shrink wrap stays tight at highway speeds, preventing damage from road debris, salt, and weather.",
       icon: <Truck size={32} />,
       tag: "TRANSPORT",
       clickable: true

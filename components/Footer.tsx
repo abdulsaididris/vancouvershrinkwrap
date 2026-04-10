@@ -76,7 +76,7 @@ export const Footer: React.FC = () => {
 
         <div className="pt-6 md:pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-xs md:text-sm text-center md:text-left">
-            Â© {new Date().getFullYear()} Vancouver Shrinkwrap. All rights reserved.
+            Ã‚Â© {new Date().getFullYear()} Vancouver Shrinkwrap. All rights reserved.
           </p>
           <button
             onClick={scrollToTop}
