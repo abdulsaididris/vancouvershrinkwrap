@@ -1,4 +1,4 @@
-﻿
+
 import React from 'react';
 import { ArrowUp, Phone, Mail, MapPin } from 'lucide-react';
 
@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="sm:col-span-2 lg:col-span-2">
             <h3 className="text-2xl md:text-3xl font-black mb-3 md:mb-4">
-              VANCOUVER <span className="text-orange-500">SHRINK WRAP</span>
+              VANCOUVER <span className="text-orange-500">SHRINKWRAP</span>
             </h3>
             <p className="text-slate-400 text-base md:text-lg mb-4 md:mb-6 max-w-md leading-relaxed">
               Professional shrink wrapping services for buildings, boats, equipment, and more. Protecting Vancouver's investments since 2014.
@@ -29,12 +29,12 @@ export const Footer: React.FC = () => {
             <div className="mt-6 pt-6 border-t border-slate-800">
               <p className="text-slate-500 text-sm mb-2">Also serving Southern British Columbia:</p>
               <a
-                href="http://calgaryshrinkwrap.ca/"
+                href="http://Victoriashrinkwrap.ca/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-orange-500 font-bold hover:text-orange-400 transition-colors flex items-center gap-2"
               >
-                Visit Calgary Shrink Wrap
+                Visit Victoria Shrinkwrap
                 <ArrowUp size={14} className="rotate-45" />
               </a>
             </div>
@@ -76,7 +76,7 @@ export const Footer: React.FC = () => {
 
         <div className="pt-6 md:pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-xs md:text-sm text-center md:text-left">
-            Â© {new Date().getFullYear()} Vancouver Shrink Wrap. All rights reserved.
+            Â© {new Date().getFullYear()} Vancouver Shrinkwrap. All rights reserved.
           </p>
           <button
             onClick={scrollToTop}

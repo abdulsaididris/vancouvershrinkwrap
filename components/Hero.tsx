@@ -9,7 +9,7 @@ export const Hero: React.FC = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src="/hero-building.jpg"
-          alt="Shrink wrapped building in Vancouver, British Columbia"
+          alt="SHRINKWRAPped building in Vancouver, British Columbia"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900/90 via-slate-900/70 to-slate-900/40"></div>
@@ -20,17 +20,17 @@ export const Hero: React.FC = () => {
         <div className="max-w-2xl w-full">
           <div className="inline-flex items-center gap-2 md:gap-3 mb-2 md:mb-3 bg-orange-500/20 backdrop-blur-sm px-3 md:px-4 py-1.5 md:py-2 rounded-full">
             <div className="h-1.5 w-1.5 md:h-2 md:w-2 bg-orange-500 rounded-full animate-pulse"></div>
-            <span className="text-xs md:text-sm font-semibold text-orange-400 uppercase tracking-wider">Vancouver's Shrink Wrap Experts</span>
+            <span className="text-xs md:text-sm font-semibold text-orange-400 uppercase tracking-wider">Vancouver's SHRINKWRAP Experts</span>
           </div>
           
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-6xl xl:text-7xl font-black leading-[0.95] tracking-tight mb-3 md:mb-4 text-white">
             PROFESSIONAL<br />
-            SHRINK WRAP<br />
+            SHRINKWRAP<br />
             <span className="text-orange-500">SERVICES</span>
           </h1>
           
           <p className="text-base sm:text-lg md:text-xl lg:text-xl text-slate-300 font-medium leading-relaxed mb-4 md:mb-5 max-w-xl">
-            Protecting your assets from Vancouver's harsh weather. We specialize in <span className="text-orange-400 font-bold">building enclosures, boat wrapping, and industrial shrink wrap</span> solutions across Vancouver, St. Albert, Sherwood Park, and all of British Columbia.
+            Protecting your assets from Vancouver's harsh weather. We specialize in <span className="text-orange-400 font-bold">building enclosures, boat wrapping, and industrial SHRINKWRAP</span> solutions across Vancouver, Surrey, Burnaby, and all of British Columbia.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 md:gap-4 mb-4 md:mb-5">

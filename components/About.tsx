@@ -14,12 +14,12 @@ export const About: React.FC = () => {
             </div>
             
             <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mt-4 mb-6 md:mb-8 leading-[0.95] tracking-tighter">
-              WHY CHOOSE<br /><span className="text-orange-500">VANCOUVER SHRINK WRAP?</span>
+              WHY CHOOSE<br /><span className="text-orange-500">Vancouver Shrinkwrap?</span>
             </h2>
             
             <div className="space-y-4 md:space-y-6 text-slate-600 text-base md:text-lg font-medium leading-relaxed border-l-4 border-slate-200 pl-4 md:pl-6">
               <p>
-                Vancouver Shrink Wrap provides professional shrink wrapping services for residential, commercial, and industrial clients across <strong>Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia</strong>.
+                Vancouver Shrinkwrap provides professional SHRINKWRAPping services for residential, commercial, and industrial clients across <strong>Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia</strong>.
               </p>
               <p>
                 From protecting construction sites during winter to wrapping boats for storage, we deliver <span className="text-slate-900 font-bold">tight, durable, weatherproof solutions</span> that keep your assets safe year-round in British Columbia's harsh climate.

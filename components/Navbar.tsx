@@ -1,4 +1,4 @@
-﻿
+
 import React, { useState } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 
@@ -26,7 +26,7 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
         <a href="#" className="flex items-center gap-2 md:gap-3" onClick={() => setIsOpen(false)}>
           <img
             src="/logo.png"
-            alt="Vancouver Shrink Wrap Logo"
+            alt="Vancouver Shrinkwrap Logo"
             className={`transition-all duration-300 ${scrolled ? 'h-8 md:h-10' : 'h-10 md:h-12'}`}
           />
           <div className="hidden sm:flex flex-col">
@@ -34,7 +34,7 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
               VANCOUVER
             </span>
             <span className={`font-black text-orange-500 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
-              SHRINK WRAP
+              SHRINKWRAP
             </span>
           </div>
         </a>

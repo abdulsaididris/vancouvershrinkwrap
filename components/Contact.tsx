@@ -14,14 +14,14 @@ export const Contact: React.FC = () => {
               GET YOUR<br /><span className="text-orange-500">FREE QUOTE</span>
             </h2>
             <p className="text-lg md:text-xl text-slate-600 font-medium mb-8 md:mb-12 leading-relaxed">
-              Ready to protect your investment? Contact us today for a free, no-obligation estimate. We respond to all inquiries within 24 hours. Serving Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia.
+              Ready to protect your investment? Contact us today for a free, no-obligation estimate. We respond to all inquiries within 24 hours. Serving Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia.
             </p>
 
             <div className="space-y-6 md:space-y-8">
               {[
                 { label: "Call Us", val: "604-409-0668", icon: <Phone size={24} />, href: "tel:6044090668" },
                 { label: "Email", val: "a.said@lagroupofcompanies.ca", icon: <Mail size={24} />, href: "mailto:a.said@lagroupofcompanies.ca" },
-                { label: "Service Area", val: "Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia", icon: <MapPin size={24} /> }
+                { label: "Service Area", val: "Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia", icon: <MapPin size={24} /> }
               ].map((item, i) => (
                 <div key={i} className="flex gap-4 md:gap-5 group">
                   <div className="w-12 h-12 md:w-14 md:h-14 bg-orange-500 text-white flex items-center justify-center rounded-lg flex-shrink-0">
@@ -44,7 +44,7 @@ export const Contact: React.FC = () => {
             <div className="mt-8 p-6 bg-white rounded-lg border-2 border-slate-200">
               <h3 className="text-lg font-black text-slate-900 mb-3">Areas We Serve:</h3>
               <p className="text-slate-600 text-sm leading-relaxed">
-                <strong>Vancouver</strong> â€¢ <strong>St. Albert</strong> â€¢ <strong>Sherwood Park</strong> â€¢ <strong>Calgary</strong> â€¢ <strong>Fort Saskatchewan</strong> â€¢ <strong>Spruce Grove</strong> â€¢ <strong>Stony Plain</strong> â€¢ <strong>Leduc</strong> â€¢ <strong>Beaumont</strong> â€¢ And throughout all of <strong>British Columbia</strong>
+                <strong>Vancouver</strong> â€¢ <strong>Surrey</strong> â€¢ <strong>Burnaby</strong> â€¢ <strong>Victoria</strong> â€¢ <strong>Coquitlam</strong> â€¢ <strong>New Westminster</strong> â€¢ <strong>Maple Ridge</strong> â€¢ <strong>Langley</strong> â€¢ <strong>Delta</strong> â€¢ And throughout all of <strong>British Columbia</strong>
               </p>
             </div>
           </div>
@@ -58,7 +58,7 @@ export const Contact: React.FC = () => {
               className="space-y-4 md:space-y-6"
             >
               {/* FormSubmit hidden fields */}
-              <input type="hidden" name="_subject" value="New Quote Request - Vancouver Shrink Wrap" />
+              <input type="hidden" name="_subject" value="New Quote Request - Vancouver Shrinkwrap" />
               <input type="hidden" name="_captcha" value="false" />
               
               <div className="grid sm:grid-cols-2 gap-4 md:gap-6">
@@ -99,14 +99,14 @@ export const Contact: React.FC = () => {
                 <select name="location" required className="w-full bg-slate-50 border-2 border-slate-200 px-4 py-3 rounded-lg text-base md:text-lg focus:outline-none focus:border-orange-500 transition-all">
                   <option value="">Select your city...</option>
                   <option>Vancouver</option>
-                  <option>St. Albert</option>
-                  <option>Sherwood Park</option>
-                  <option>Calgary</option>
-                  <option>Fort Saskatchewan</option>
-                  <option>Spruce Grove</option>
-                  <option>Stony Plain</option>
-                  <option>Leduc</option>
-                  <option>Beaumont</option>
+                  <option>Surrey</option>
+                  <option>Burnaby</option>
+                  <option>Victoria</option>
+                  <option>Coquitlam</option>
+                  <option>New Westminster</option>
+                  <option>Maple Ridge</option>
+                  <option>Langley</option>
+                  <option>Delta</option>
                   <option>Other (British Columbia)</option>
                 </select>
               </div>

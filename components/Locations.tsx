@@ -19,7 +19,7 @@ export const Locations: React.FC<LocationsProps> = ({ onLocationClick }) => {
               Locations <span className="text-orange-500">Served</span>
             </h2>
             <p className="text-lg md:text-xl text-slate-600 leading-relaxed">
-              We provide mobile shrink wrap services across British Columbia. Our crews cover over 100 cities and towns, reaching industrial sites and projects from the northern oil sands to the southern wind farms.
+              We provide mobile SHRINKWRAP services across British Columbia. Our crews cover over 100 cities and towns, reaching industrial sites and projects from the northern oil sands to the southern wind farms.
             </p>
           </div>
           <div className="flex items-center gap-2 px-4 py-2 bg-orange-500/10 border border-orange-500/20 rounded-xl text-orange-600 font-bold text-sm">

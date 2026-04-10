@@ -11,7 +11,7 @@ export const Services: React.FC<ServicesProps> = ({ onServiceClick }) => {
     {
       id: 'building-wrap',
       title: "Building Envelopes",
-      desc: "Complete weather protection for construction sites, scaffolding, and renovations in Vancouver, St. Albert, Sherwood Park, and across British Columbia. Keep your crew working through winter.",
+      desc: "Complete weather protection for construction sites, scaffolding, and renovations in Vancouver, Surrey, Burnaby, and across British Columbia. Keep your crew working through winter.",
       icon: <Building2 size={32} />,
       tag: "CONSTRUCTION",
       clickable: true
@@ -19,7 +19,7 @@ export const Services: React.FC<ServicesProps> = ({ onServiceClick }) => {
     {
       id: 'boat-wrap',
       title: "Boat & Marine Wrap",
-      desc: "Protect boats, yachts, equipment, and machinery during storage. Professional shrink wrap for all sizes in Vancouver and surrounding areas, ensuring year-round protection.",
+      desc: "Protect boats, yachts, equipment, and machinery during storage. Professional SHRINKWRAP for all sizes in Vancouver and surrounding areas, ensuring year-round protection.",
       icon: <Package size={32} />,
       tag: "MARINE",
       clickable: true
@@ -27,7 +27,7 @@ export const Services: React.FC<ServicesProps> = ({ onServiceClick }) => {
     {
       id: 'transport-wrap',
       title: "Transport Protection",
-      desc: "Protect equipment and modular units during transport. Our shrink wrap stays tight at highway speeds, preventing damage from road debris, salt, and weather.",
+      desc: "Protect equipment and modular units during transport. Our SHRINKWRAP stays tight at highway speeds, preventing damage from road debris, salt, and weather.",
       icon: <Truck size={32} />,
       tag: "TRANSPORT",
       clickable: true
@@ -73,7 +73,7 @@ export const Services: React.FC<ServicesProps> = ({ onServiceClick }) => {
             WHAT WE <span className="text-orange-500">WRAP</span>
           </h2>
           <p className="mt-4 md:mt-6 text-base sm:text-lg md:text-xl text-slate-600 max-w-2xl mx-auto px-4">
-            From small residential projects in Vancouver to large industrial sites across British Columbia, we have the expertise to wrap it all. Serving Vancouver, St. Albert, Sherwood Park, Calgary, and surrounding areas.
+            From small residential projects in Vancouver to large industrial sites across British Columbia, we have the expertise to wrap it all. Serving Vancouver, Surrey, Burnaby, Victoria, and surrounding areas.
           </p>
         </div>
 

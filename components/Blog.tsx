@@ -32,7 +32,7 @@ export const Blog: React.FC<BlogProps> = ({ onReadMore }) => {
                         INDUSTRY <span className="text-orange-500">KNOWLEDGE</span>
                     </h2>
                     <p className="mt-4 md:mt-6 text-base sm:text-lg md:text-xl text-slate-600 max-w-2xl mx-auto px-4">
-                        Expert insights on shrink wrap solutions for construction, industrial, and transport applications in Vancouver and across British Columbia.
+                        Expert insights on SHRINKWRAP solutions for construction, industrial, and transport applications in Vancouver and across British Columbia.
                     </p>
                 </div>
 
@@ -88,7 +88,7 @@ export const Blog: React.FC<BlogProps> = ({ onReadMore }) => {
                 {/* SEO Keywords Footer */}
                 <div className="mt-12 md:mt-16 text-center">
                     <p className="text-slate-400 text-sm">
-                        Serving Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia with professional shrink wrap solutions.
+                        Serving Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia with professional SHRINKWRAP solutions.
                     </p>
                 </div>
             </div>

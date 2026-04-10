@@ -29,16 +29,16 @@ export const servicePages: ServicePage[] = [
     {
         id: 'building-wrap',
         slug: 'building-shrink-wrap-vancouver',
-        title: 'Building Shrink Wrap Vancouver | Construction Site Enclosures British Columbia',
-        metaDescription: 'Professional building shrink wrap services in Vancouver. Weather-proof construction site enclosures, scaffolding wrap, and renovation protection across British Columbia.',
-        heroTitle: 'Building Shrink Wrap',
+        title: 'Building SHRINKWRAP Vancouver | Construction Site Enclosures British Columbia',
+        metaDescription: 'Professional building SHRINKWRAP services in Vancouver. Weather-proof construction site enclosures, scaffolding wrap, and renovation protection across British Columbia.',
+        heroTitle: 'Building SHRINKWRAP',
         heroSubtitle: 'Construction Site Enclosures for Vancouver & British Columbia',
-        focusKeywords: ['Building Shrink Wrap Vancouver', 'Construction Site Enclosure', 'Scaffolding Wrap British Columbia'],
-        intro: 'Keep your construction project on schedule through Vancouver\'s harshest winters. Our building shrink wrap creates a weatherproof "workable bubble" that allows your crew to continue painting, drywalling, and finishing workâ€”no matter what the forecast says. We serve construction sites across Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia.',
+        focusKeywords: ['Building SHRINKWRAP Vancouver', 'Construction Site Enclosure', 'Scaffolding Wrap British Columbia'],
+        intro: 'Keep your construction project on schedule through Vancouver\'s harshest winters. Our building SHRINKWRAP creates a weatherproof "workable bubble" that allows your crew to continue painting, drywalling, and finishing workâ€”no matter what the forecast says. We serve construction sites across Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia.',
         benefits: [
             {
                 title: 'Year-Round Construction',
-                description: 'Continue building through winter with a climate-controlled environment. Our shrink wrap enclosures keep heat in and cold out, allowing interior work to proceed on schedule.',
+                description: 'Continue building through winter with a climate-controlled environment. Our SHRINKWRAP enclosures keep heat in and cold out, allowing interior work to proceed on schedule.',
                 icon: 'Thermometer'
             },
             {
@@ -48,7 +48,7 @@ export const servicePages: ServicePage[] = [
             },
             {
                 title: 'Cost Savings',
-                description: 'Weather delays cost $1,000-$5,000+ per day. Our shrink wrap pays for itself by keeping your project moving. Most clients see ROI within the first week.',
+                description: 'Weather delays cost $1,000-$5,000+ per day. Our SHRINKWRAP pays for itself by keeping your project moving. Most clients see ROI within the first week.',
                 icon: 'DollarSign'
             },
             {
@@ -71,7 +71,7 @@ export const servicePages: ServicePage[] = [
             {
                 step: 3,
                 title: 'Installation',
-                description: 'Our trained crew installs your shrink wrap enclosure, typically completing most projects in 1-3 days. We work around your schedule to minimize disruption.'
+                description: 'Our trained crew installs your SHRINKWRAP enclosure, typically completing most projects in 1-3 days. We work around your schedule to minimize disruption.'
             },
             {
                 step: 4,
@@ -90,7 +90,7 @@ export const servicePages: ServicePage[] = [
         ],
         faq: [
             {
-                question: 'How long does building shrink wrap installation take?',
+                question: 'How long does building SHRINKWRAP installation take?',
                 answer: 'Most building enclosures are completed in 1-3 days, depending on size and complexity. Larger multi-story projects may take 4-5 days. We work efficiently to minimize disruption to your construction schedule.'
             },
             {
@@ -98,8 +98,8 @@ export const servicePages: ServicePage[] = [
                 answer: 'Absolutely! We install access doors, zippered entries, and ventilation points wherever needed. The enclosure is designed to allow full work access while maintaining weather protection.'
             },
             {
-                question: 'How does shrink wrap handle heavy snow loads?',
-                answer: 'Our drum-tight installation sheds snow naturallyâ€”it slides right off the taut surface. Unlike tarps that collect snow and sag, shrink wrap maintains its shape throughout winter.'
+                question: 'How does SHRINKWRAP handle heavy snow loads?',
+                answer: 'Our drum-tight installation sheds snow naturallyâ€”it slides right off the taut surface. Unlike tarps that collect snow and sag, SHRINKWRAP maintains its shape throughout winter.'
             }
         ],
         relatedServices: ['boat-wrap', 'transport-wrap']
@@ -107,16 +107,16 @@ export const servicePages: ServicePage[] = [
     {
         id: 'boat-wrap',
         slug: 'boat-shrink-wrap-vancouver',
-        title: 'Boat Shrink Wrap Vancouver | Marine Storage Protection British Columbia',
-        metaDescription: 'Professional boat shrink wrapping in Vancouver. Protect your boat, yacht, or watercraft during British Columbia winters. Mobile service available across the province.',
-        heroTitle: 'Boat & Marine Shrink Wrap',
+        title: 'Boat SHRINKWRAP Vancouver | Marine Storage Protection British Columbia',
+        metaDescription: 'Professional boat SHRINKWRAPping in Vancouver. Protect your boat, yacht, or watercraft during British Columbia winters. Mobile service available across the province.',
+        heroTitle: 'Boat & Marine SHRINKWRAP',
         heroSubtitle: 'Protect Your Watercraft Through British Columbia Winters',
-        focusKeywords: ['Boat Shrink Wrap Vancouver', 'Marine Wrap British Columbia', 'Boat Storage Protection'],
-        intro: 'Your boat is a significant investmentâ€”protect it properly during British Columbia\'s long, harsh winters. Our marine shrink wrap provides complete protection from snow, ice, UV damage, and critters. We wrap boats of all sizes at your location throughout Vancouver, St. Albert, and across British Columbia.',
+        focusKeywords: ['Boat SHRINKWRAP Vancouver', 'Marine Wrap British Columbia', 'Boat Storage Protection'],
+        intro: 'Your boat is a significant investmentâ€”protect it properly during British Columbia\'s long, harsh winters. Our marine SHRINKWRAP provides complete protection from snow, ice, UV damage, and critters. We wrap boats of all sizes at your location throughout Vancouver, Surrey, and across British Columbia.',
         benefits: [
             {
                 title: 'Complete Protection',
-                description: 'Our shrink wrap creates a sealed barrier against snow, ice, rain, and UV rays. Unlike covers that can blow off or allow moisture in, shrink wrap stays tight all winter.',
+                description: 'Our SHRINKWRAP creates a sealed barrier against snow, ice, rain, and UV rays. Unlike covers that can blow off or allow moisture in, SHRINKWRAP stays tight all winter.',
                 icon: 'Shield'
             },
             {
@@ -148,7 +148,7 @@ export const servicePages: ServicePage[] = [
             },
             {
                 step: 3,
-                title: 'Shrink Wrap Application',
+                title: 'SHRINKWRAP Application',
                 description: 'We apply and heat-shrink the wrap to create a drum-tight seal. The entire process typically takes 1-3 hours depending on boat size.'
             },
             {
@@ -168,7 +168,7 @@ export const servicePages: ServicePage[] = [
         ],
         faq: [
             {
-                question: 'How much does boat shrink wrap cost in Vancouver?',
+                question: 'How much does boat SHRINKWRAP cost in Vancouver?',
                 answer: 'Pricing is typically $12-$20 per linear foot. Pontoon boats usually run $300-$500, mid-size boats $500-$1,000, and larger vessels $1,000-$2,000+. We provide free quotes based on your specific boat.'
             },
             {
@@ -176,8 +176,8 @@ export const servicePages: ServicePage[] = [
                 answer: 'Yes! Our mobile service wraps boats at your home, storage facility, marina, or anywhere in Vancouver and across British Columbia. No need to transport your boatâ€”we come to you.'
             },
             {
-                question: 'Is shrink wrap better than a boat cover?',
-                answer: 'For British Columbia winters, absolutely. Covers can blow off, allow moisture in, and don\'t provide the same UV or pest protection. Shrink wrap stays sealed all winter and handles heavy snow loads.'
+                question: 'Is SHRINKWRAP better than a boat cover?',
+                answer: 'For British Columbia winters, absolutely. Covers can blow off, allow moisture in, and don\'t provide the same UV or pest protection. SHRINKWRAP stays sealed all winter and handles heavy snow loads.'
             }
         ],
         relatedServices: ['building-wrap', 'transport-wrap']
@@ -185,16 +185,16 @@ export const servicePages: ServicePage[] = [
     {
         id: 'transport-wrap',
         slug: 'transport-shrink-wrap-british-columbia',
-        title: 'Transport Shrink Wrap British Columbia | Equipment & Modular Unit Protection',
-        metaDescription: 'Industrial transport shrink wrap for equipment and modular units in British Columbia. Protect cargo from road debris, salt, and weather during transit.',
+        title: 'Transport SHRINKWRAP British Columbia | Equipment & Modular Unit Protection',
+        metaDescription: 'Industrial transport SHRINKWRAP for equipment and modular units in British Columbia. Protect cargo from road debris, salt, and weather during transit.',
         heroTitle: 'Transport & Equipment Wrap',
         heroSubtitle: 'Protect Your Cargo Across British Columbia & Beyond',
-        focusKeywords: ['Transport Shrink Wrap British Columbia', 'Equipment Wrap Vancouver', 'Modular Unit Protection'],
-        intro: 'Moving heavy equipment, modular buildings, or industrial components? Our transport shrink wrap protects your valuable cargo from road salt, debris, and weather damage during transit. Unlike tarps that flap and tear at highway speeds, our heat-sealed wrap stays drum-tight from Vancouver to anywhere.',
+        focusKeywords: ['Transport SHRINKWRAP British Columbia', 'Equipment Wrap Vancouver', 'Modular Unit Protection'],
+        intro: 'Moving heavy equipment, modular buildings, or industrial components? Our transport SHRINKWRAP protects your valuable cargo from road salt, debris, and weather damage during transit. Unlike tarps that flap and tear at highway speeds, our heat-sealed wrap stays drum-tight from Vancouver to anywhere.',
         benefits: [
             {
                 title: 'Highway-Speed Protection',
-                description: 'Our shrink wrap won\'t flap, chafe, or come loose at highway speeds. The heat-sealed membrane moves with the load, staying tight from origin to destination.',
+                description: 'Our SHRINKWRAP won\'t flap, chafe, or come loose at highway speeds. The heat-sealed membrane moves with the load, staying tight from origin to destination.',
                 icon: 'Zap'
             },
             {
@@ -209,7 +209,7 @@ export const servicePages: ServicePage[] = [
             },
             {
                 title: 'Tamper Evidence',
-                description: 'Shrink wrap provides visible securityâ€”any tampering is immediately obvious. Know your cargo arrived exactly as it left.',
+                description: 'SHRINKWRAP provides visible securityâ€”any tampering is immediately obvious. Know your cargo arrived exactly as it left.',
                 icon: 'Lock'
             }
         ],
@@ -227,7 +227,7 @@ export const servicePages: ServicePage[] = [
             {
                 step: 3,
                 title: 'Wrap Application',
-                description: 'Industrial-grade shrink wrap is applied and heat-sealed to create a continuous, taut barrier around the entire load.'
+                description: 'Industrial-grade SHRINKWRAP is applied and heat-sealed to create a continuous, taut barrier around the entire load.'
             },
             {
                 step: 4,
@@ -251,7 +251,7 @@ export const servicePages: ServicePage[] = [
             },
             {
                 question: 'Do you wrap equipment at remote sites?',
-                answer: 'Yes! We regularly travel to industrial sites, construction locations, and remote areas across British Columbia to wrap equipment before transport. We\'ve wrapped loads from Fort McMurray to Calgary and beyond.'
+                answer: 'Yes! We regularly travel to industrial sites, construction locations, and remote areas across British Columbia to wrap equipment before transport. We\'ve wrapped loads from Prince George to Victoria and beyond.'
             },
             {
                 question: 'What size equipment can you wrap?',

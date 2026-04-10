@@ -232,7 +232,7 @@ export const ServicePage: React.FC<ServicePageProps> = ({ serviceId, onBack, onS
                         Ready to Get Started?
                     </h2>
                     <p className="text-orange-100 text-lg mb-8 max-w-2xl mx-auto">
-                        Contact Vancouver Shrink Wrap today for a free, no-obligation quote. We serve Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia.
+                        Contact Vancouver Shrinkwrap today for a free, no-obligation quote. We serve Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                         <a
@@ -267,7 +267,7 @@ export const ServicePage: React.FC<ServicePageProps> = ({ serviceId, onBack, onS
                                 onClick={() => onServiceClick(relatedId)}
                                 className="px-6 py-3 bg-white border-2 border-slate-200 hover:border-orange-500 text-slate-700 hover:text-orange-600 font-bold rounded-lg transition-all"
                             >
-                                {relatedId === 'building-wrap' && 'Building Shrink Wrap'}
+                                {relatedId === 'building-wrap' && 'Building SHRINKWRAP'}
                                 {relatedId === 'boat-wrap' && 'Boat & Marine Wrap'}
                                 {relatedId === 'transport-wrap' && 'Transport Wrap'}
                             </button>

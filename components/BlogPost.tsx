@@ -128,7 +128,7 @@ export const BlogPost: React.FC<BlogPostProps> = ({ postId, onBack, onReadMore }
                         Ready to Protect Your Project?
                     </h3>
                     <p className="text-orange-100 text-base md:text-lg mb-6">
-                        Contact Vancouver Shrink Wrap today for a free estimate. We serve Vancouver, St. Albert, Sherwood Park, Calgary, and all of British Columbia.
+                        Contact Vancouver Shrinkwrap today for a free estimate. We serve Vancouver, Surrey, Burnaby, Victoria, and all of British Columbia.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4">
                         <a

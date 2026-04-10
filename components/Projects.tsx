@@ -12,57 +12,57 @@ export const Projects: React.FC = () => {
       title: "Industrial Enclosures",
       location: "Vancouver, British Columbia",
       type: "Industrial Enclosures",
-      description: "Professional industrial shrink wrap enclosures for complete site protection and containment.",
+      description: "Professional industrial SHRINKWRAP enclosures for complete site protection and containment.",
       img: "/project-1.webp",
-      alt: "Industrial shrink wrap enclosure on multi-story building in Vancouver British Columbia for weather protection during construction"
+      alt: "Industrial SHRINKWRAP enclosure on multi-story building in Vancouver British Columbia for weather protection during construction"
     },
     {
       title: "Modular Shrinkwrap",
       location: "Vancouver, British Columbia",
       type: "Modular Shrinkwrap",
-      description: "Versatile modular shrink wrap solutions for flexible construction site protection.",
+      description: "Versatile modular SHRINKWRAP solutions for flexible construction site protection.",
       img: "/project-2.webp",
-      alt: "Modular shrink wrap system installed on scaffolding at Vancouver construction site for winter work continuation"
+      alt: "Modular SHRINKWRAP system installed on scaffolding at Vancouver construction site for winter work continuation"
     },
     {
       title: "Asbestos/Dust Containment",
       location: "British Columbia",
       type: "Asbestos/Dust Containment",
-      description: "Specialized shrink wrap enclosure for asbestos abatement and dust containment programs.",
+      description: "Specialized SHRINKWRAP enclosure for asbestos abatement and dust containment programs.",
       img: "/project-3.webp",
-      alt: "Shrink wrap dust containment enclosure for asbestos abatement project meeting British Columbia environmental regulations"
+      alt: "SHRINKWRAP dust containment enclosure for asbestos abatement project meeting British Columbia environmental regulations"
     },
     {
       title: "Modular Shrinkwrap",
       location: "Vancouver, British Columbia",
       type: "Modular Shrinkwrap",
-      description: "Custom modular shrink wrap systems for large-scale construction and industrial projects.",
+      description: "Custom modular SHRINKWRAP systems for large-scale construction and industrial projects.",
       img: "/project-4.webp",
-      alt: "Large-scale modular shrink wrap installation on industrial facility in Vancouver for complete weather protection"
+      alt: "Large-scale modular SHRINKWRAP installation on industrial facility in Vancouver for complete weather protection"
     },
     {
       title: "Commercial Shrinkwrap",
       location: "Vancouver, British Columbia",
       type: "Commercial Shrinkwrap",
-      description: "Professional commercial shrink wrap services for building protection during construction.",
+      description: "Professional commercial SHRINKWRAP services for building protection during construction.",
       img: "/project-5.webp",
-      alt: "Commercial building wrapped in shrink wrap for winter construction protection in Vancouver St Albert area"
+      alt: "Commercial building wrapped in SHRINKWRAP for winter construction protection in Vancouver St Albert area"
     },
     {
       title: "Boat/Marine Wrap",
       location: "Vancouver, British Columbia",
       type: "Boat/Marine Wrap",
-      description: "Professional boat and marine shrink wrap services for complete watercraft protection during storage.",
+      description: "Professional boat and marine SHRINKWRAP services for complete watercraft protection during storage.",
       img: "/project-6.webp",
-      alt: "Boat shrink wrap service in Vancouver British Columbia protecting watercraft from winter snow ice and UV damage"
+      alt: "Boat SHRINKWRAP service in Vancouver British Columbia protecting watercraft from winter snow ice and UV damage"
     },
     {
       title: "Commercial Shrinkwrap",
       location: "Vancouver, British Columbia",
       type: "Commercial Shrinkwrap",
-      description: "Expert commercial shrink wrap solutions for construction sites across British Columbia.",
+      description: "Expert commercial SHRINKWRAP solutions for construction sites across British Columbia.",
       img: "/project-7.jpg",
-      alt: "Professional commercial shrink wrap enclosure on scaffolding for year-round construction in British Columbia winters"
+      alt: "Professional commercial SHRINKWRAP enclosure on scaffolding for year-round construction in British Columbia winters"
     },
     {
       title: "Construction Site Protection",
@@ -70,7 +70,7 @@ export const Projects: React.FC = () => {
       type: "All-Weather Protection",
       description: "Complete weather protection solution for construction site during harsh British Columbia winters.",
       img: "/project-8.webp",
-      alt: "Construction site shrink wrap weather protection allowing work to continue during Vancouver harsh winter conditions"
+      alt: "Construction site SHRINKWRAP weather protection allowing work to continue during Vancouver harsh winter conditions"
     }
   ];
 
