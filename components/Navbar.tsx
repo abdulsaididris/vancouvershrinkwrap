@@ -23,20 +23,12 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'py-2 bg-white shadow-lg' : 'py-3 md:py-4 bg-white/95 backdrop-blur-sm'
       }`}>
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-12 flex justify-between items-center">
-        <a href="#" className="flex items-center gap-2 md:gap-3" onClick={() => setIsOpen(false)}>
+        <a href="#" className="flex items-center" onClick={() => setIsOpen(false)}>
           <img
             src="/logo.png"
             alt="Vancouver Shrinkwrap Logo"
-            className={`transition-all duration-300 ${scrolled ? 'h-8 md:h-10' : 'h-10 md:h-12'}`}
+            className={`transition-all duration-300 ${scrolled ? 'h-12 md:h-14' : 'h-16 md:h-20'}`}
           />
-          <div className="hidden sm:flex flex-col">
-            <span className={`font-black text-slate-900 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
-              VANCOUVER
-            </span>
-            <span className={`font-black text-orange-500 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
-              SHRINKWRAP
-            </span>
-          </div>
         </a>
 
         {/* Desktop Navigation */}
