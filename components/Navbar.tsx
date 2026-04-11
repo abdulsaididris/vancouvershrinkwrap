@@ -27,13 +27,13 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
           <img
             src="/logo.png"
             alt="Vancouver Shrinkwrap Logo"
-            className={`transition-all duration-300 ${scrolled ? 'h-8 md:h-10' : 'h-10 md:h-12'}`}
+            className={`transition-all duration-300 w-auto ${scrolled ? 'h-10 sm:h-10 md:h-12' : 'h-12 sm:h-12 md:h-14 lg:h-16'}`}
           />
-          <div className="hidden sm:flex flex-col">
-            <span className={`font-black text-slate-900 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
+          <div className="flex flex-col">
+            <span className={`font-black text-slate-900 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-sm sm:text-base md:text-lg' : 'text-base sm:text-lg md:text-xl'}`}>
               Vancouver
             </span>
-            <span className={`font-black text-orange-500 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
+            <span className={`font-black text-orange-500 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-sm sm:text-base md:text-lg' : 'text-base sm:text-lg md:text-xl'}`}>
               Shrinkwrap
             </span>
           </div>
