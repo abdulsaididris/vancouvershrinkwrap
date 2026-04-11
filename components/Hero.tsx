@@ -4,7 +4,7 @@ import { ArrowRight, Phone, CheckCircle } from 'lucide-react';
 
 export const Hero: React.FC = () => {
   return (
-    <div className="relative h-screen pt-16 md:pt-20 overflow-hidden">
+    <div className="relative min-h-[100svh] pt-16 md:pt-20 overflow-hidden flex flex-col justify-center">
       {/* Full-width Hero Image */}
       <div className="absolute inset-0 z-0">
         <img 
@@ -16,8 +16,8 @@ export const Hero: React.FC = () => {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 h-full max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-12 flex items-center">
-        <div className="max-w-2xl w-full mt-16 md:mt-24 lg:mt-32">
+      <div className="relative z-10 w-full max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-12 pb-16 pt-8 md:pt-12">
+        <div className="max-w-2xl w-full mt-8 md:mt-12 lg:mt-16">
           <div className="inline-flex items-center gap-2 md:gap-3 mb-2 md:mb-3 bg-orange-500/20 backdrop-blur-sm px-3 md:px-4 py-1.5 md:py-2 rounded-full">
             <div className="h-1.5 w-1.5 md:h-2 md:w-2 bg-orange-500 rounded-full animate-pulse"></div>
             <span className="text-xs md:text-sm font-semibold text-orange-400 uppercase tracking-wider">Vancouver's shrink wrap Experts</span>
