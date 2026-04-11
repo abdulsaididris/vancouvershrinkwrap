@@ -1,8 +1,37 @@
 
-import React from 'react';
-import { Mail, Phone, MapPin, ArrowRight } from 'lucide-react';
+import React, { useState } from 'react';
+import { Mail, Phone, MapPin, ArrowRight, CheckCircle } from 'lucide-react';
 
 export const Contact: React.FC = () => {
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isSubmitted, setIsSubmitted] = useState(false);
+
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    setIsSubmitting(true);
+    
+    const formData = new FormData(e.currentTarget);
+    
+    try {
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        body: formData
+      });
+      
+      const data = await response.json();
+      
+      if (data.success) {
+        setIsSubmitted(true);
+        (e.target as HTMLFormElement).reset();
+        setTimeout(() => setIsSubmitted(false), 8000);
+      }
+    } catch (error) {
+      console.error(error);
+    } finally {
+      setIsSubmitting(false);
+    }
+  };
+
   return (
     <div className="py-16 md:py-24 bg-slate-50">
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-12">
@@ -53,8 +82,7 @@ export const Contact: React.FC = () => {
           <div className="bg-white p-6 md:p-10 rounded-lg shadow-lg border border-slate-100">
             <h3 className="text-xl md:text-2xl font-black mb-6 md:mb-8 text-slate-900">Request a Free Quote</h3>
             <form 
-              action="https://api.web3forms.com/submit" 
-              method="POST"
+              onSubmit={handleSubmit}
               className="space-y-4 md:space-y-6"
             >
               {/* Web3Forms hidden fields */}
@@ -135,10 +163,26 @@ export const Contact: React.FC = () => {
 
               <button
                 type="submit"
-                className="w-full py-3 md:py-4 bg-orange-500 text-white hover:bg-orange-600 transition-all font-bold text-base md:text-lg flex items-center justify-center gap-3 rounded-lg shadow-lg"
+                disabled={isSubmitting}
+                className={`w-full py-3 md:py-4 transition-all font-bold text-base md:text-lg flex items-center justify-center gap-3 rounded-lg shadow-lg ${
+                  isSubmitted 
+                    ? 'bg-green-500 hover:bg-green-600 text-white' 
+                    : 'bg-orange-500 hover:bg-orange-600 text-white'
+                } disabled:opacity-70`}
               >
-                Send Quote Request
-                <ArrowRight size={18} className="md:w-5 md:h-5" />
+                {isSubmitting ? (
+                  'Sending...'
+                ) : isSubmitted ? (
+                  <>
+                    <CheckCircle size={18} className="md:w-5 md:h-5" />
+                    Quote Request Sent!
+                  </>
+                ) : (
+                  <>
+                    Send Quote Request
+                    <ArrowRight size={18} className="md:w-5 md:h-5" />
+                  </>
+                )}
               </button>
             </form>
           </div>
