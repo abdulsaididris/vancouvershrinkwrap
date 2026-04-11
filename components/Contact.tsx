@@ -1,4 +1,4 @@
-﻿
+
 import React from 'react';
 import { Mail, Phone, MapPin, ArrowRight } from 'lucide-react';
 
@@ -53,13 +53,14 @@ export const Contact: React.FC = () => {
           <div className="bg-white p-6 md:p-10 rounded-lg shadow-lg border border-slate-100">
             <h3 className="text-xl md:text-2xl font-black mb-6 md:mb-8 text-slate-900">Request a Free Quote</h3>
             <form 
-              action="https://formsubmit.co/a.said@lagroupofcompanies.ca" 
+              action="https://api.web3forms.com/submit" 
               method="POST"
               className="space-y-4 md:space-y-6"
             >
-              {/* FormSubmit hidden fields */}
-              <input type="hidden" name="_subject" value="New Quote Request - Vancouver Shrinkwrap" />
-              <input type="hidden" name="_captcha" value="false" />
+              {/* Web3Forms hidden fields */}
+              <input type="hidden" name="access_key" value="bc834572-becf-4ebf-99cb-d28fa646b793" />
+              <input type="hidden" name="subject" value="New Quote Request - Vancouver Shrinkwrap" />
+              <input type="checkbox" name="botcheck" className="hidden" style={{ display: 'none' }} />
               
               <div className="grid sm:grid-cols-2 gap-4 md:gap-6">
                 <div>
