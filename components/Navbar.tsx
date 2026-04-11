@@ -31,10 +31,10 @@ export const Navbar: React.FC<NavbarProps> = ({ scrolled }) => {
           />
           <div className="hidden sm:flex flex-col">
             <span className={`font-black text-slate-900 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
-              VANCOUVER
+              Vancouver
             </span>
             <span className={`font-black text-orange-500 tracking-tight leading-tight transition-all duration-300 ${scrolled ? 'text-base md:text-lg' : 'text-lg md:text-xl'}`}>
-              SHRINKWRAP
+              Shrinkwrap
             </span>
           </div>
         </a>
